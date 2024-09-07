@@ -15,6 +15,7 @@
   </a>
 </p>
 
+
 VSCode Error GPT is an extension that allows you to quickly copy error messages and file content, format them into an AI-friendly prompt for easy debugging with ChatGPT or other AI assistants.
 
 
