@@ -5,13 +5,13 @@
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=FasterLight.vscode-error-gpt">
-    <img src="https://img.shields.io/visual-studio-marketplace/v/FasterLight.vscode-error-gpt" alt="Version">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/FasterLight.vscode-error-gpt?style=flat-square" alt="Version">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=FasterLight.vscode-error-gpt">
-    <img src="https://img.shields.io/badge/Installs-3-blue" alt="Installs">
+    <img src="https://img.shields.io/vscode-marketplace/d/FasterLight.vscode-error-gpt.svg?style=flat-square" alt="Installs">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=FasterLight.vscode-error-gpt&ssr=false#review-details">
-    <img src="https://img.shields.io/badge/Rating-5.0%20(1)-yellow" alt="Rating">
+    <img src="https://img.shields.io/visual-studio-marketplace/r/FasterLight.vscode-error-gpt?style=flat-square" alt="Rating">
   </a>
 </p>
 
