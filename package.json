@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.93.0"
   },
+  "publisher": "FasterLight",
   "repository": {
     "type": "git",
     "url": "https://github.com/ChenYCL/vscode-error-gpt.git"

@@ -8,12 +8,13 @@
     <img src="https://img.shields.io/visual-studio-marketplace/v/FasterLight.vscode-error-gpt" alt="Version">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=FasterLight.vscode-error-gpt">
-    <img src="https://img.shields.io/visual-studio-marketplace/d/FasterLight.vscode-error-gpt" alt="Downloads">
+    <img src="https://img.shields.io/badge/Installs-3-blue" alt="Installs">
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=FasterLight.vscode-error-gpt">
-    <img src="https://img.shields.io/visual-studio-marketplace/r/FasterLight.vscode-error-gpt" alt="Rating">
+  <a href="https://marketplace.visualstudio.com/items?itemName=FasterLight.vscode-error-gpt&ssr=false#review-details">
+    <img src="https://img.shields.io/badge/Rating-5.0%20(1)-yellow" alt="Rating">
   </a>
 </p>
+
 
 VSCode Error GPT is an extension that allows you to quickly copy error messages and file content, format them into an AI-friendly prompt for easy debugging with ChatGPT or other AI assistants.
 
